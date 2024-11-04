@@ -4,10 +4,15 @@
 Soy estudiante del Master de ConquerBlocs: Programador Full-Stack.
 
 
-## Resume
+## Comming soon
+Futuros programas que publicaré:
+- Pasar de voz a texto
+- Juego retro
+- ...
 
-
-##
+## Contact
+Email: jaumelopezsergi@gmail.com
+Discord: vofvendta
 
 
 <!--
