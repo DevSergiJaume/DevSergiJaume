@@ -11,8 +11,8 @@ Futuros programas que publicaré:
 - ...
 
 ## Contact
-Email: jaumelopezsergi@gmail.com
-Discord: vofvendta
+- Email: jaumelopezsergi@gmail.com
+- Discord: vofvendta
 
 
 <!--
