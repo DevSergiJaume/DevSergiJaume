@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hellouda! 👋
 
 ## About me
+Soy estudiante del Master de ConquerBlocs: Programador Full-Stack.
+
 
 ## Resume
 
