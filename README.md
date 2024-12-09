@@ -3,13 +3,10 @@
 
 ## About me
 Soy estudiante del Master de ConquerBlocs: Programador Full-Stack.
-
+Tengo una formación de Grado Superior en Administración y Dirección de empresas.
 
 ## Comming soon
-Futuros programas que publicaré:
-- Pasar de voz a texto
-- Juego retro
-- ...
+Poco a poco voy a ir compartiendo mis proyectos...
 
 ## Contact
 - Email: jaumelopezsergi@gmail.com
