@@ -1,29 +1,25 @@
-## Hellouda! 👋
-<img width="450px" src="https://i.ytimg.com/vi/8WELgOtOQ38/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDgU9GmA1eGv0qkR0wsiGm_7e8uWg" alt="Portada del módulo de JS" />
+# 💻 ¡Hola, bienvenido a mi perfil! 🚀  
 
-## About me
-Soy estudiante del Master de ConquerBlocs: Programador Full-Stack.<br>
-Tengo una formación de Grado Superior en Administración y Dirección de empresas.
+## 🧑‍💼 Sobre mí  
+Soy un joven profesional con formación en Administración y Dirección de Empresas (ADE) por la UVIC. Actualmente, estoy ampliando mis horizontes en el mundo de la programación, combinando mis conocimientos empresariales con el desarrollo web.  
 
-## Comming soon
-Poco a poco voy a ir compartiendo mis proyectos...
+## 🛠️ Habilidades  
+📌 **Lenguajes y tecnologías**:  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Python, MySQL  
+- **CMS**: WordPress  
 
-## Contact
-- Email: jaumelopezsergi@gmail.com
-- Discord: vofvendta
+📌 **Idiomas**:  
+- 🏆 Catalán y Español (nativo)  
+- 🌍 Inglés (nivel superior a B2)  
 
+## 🚀 En formación  
+Estoy especializándome en desarrollo web fullstack, aunque mi enfoque principal es el frontend. Me apasiona crear experiencias interactivas y optimizadas para los usuarios.  
 
-<!--
-**DevSergiJaume/DevSergiJaume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ ¡Explora mis repositorios y acompáñame en mi viaje de aprendizaje!  
 
-Here are some ideas to get you started:
+## 📩 Contacto  
+📧 Correo electrónico: sergijaumelopez@gmail.com  
+💬 Discord: DevSergiJaume  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Banner de programación](https://source.unsplash.com/1600x400/?technology,coding)
