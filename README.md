@@ -1,6 +1,6 @@
 # 💻 ¡Hola, bienvenido a mi perfil! 🚀  
 
-## 🧑‍💼 Sobre mí  
+## 👨‍💻 Sobre mí  
 Soy un joven profesional con formación en Administración y Dirección de Empresas (ADE) por la UVIC. Actualmente, estoy ampliando mis horizontes en el mundo de la programación, combinando mis conocimientos empresariales con el desarrollo web.  
 
 ## 🛠️ Habilidades  
@@ -8,6 +8,10 @@ Soy un joven profesional con formación en Administración y Dirección de Empre
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Python, MySQL  
 - **CMS**: WordPress  
+
+📌 **Herramientas y software**:  
+- 💼 Conocimientos altos en programas de Office  
+- 🎨 Conocimientos básicos de usuario en Figma  
 
 📌 **Idiomas**:  
 - 🏆 Catalán y Español (nativo)  
@@ -21,5 +25,7 @@ Estoy especializándome en desarrollo web fullstack, aunque mi enfoque principal
 ## 📩 Contacto  
 📧 Correo electrónico: sergijaumelopez@gmail.com  
 💬 Discord: DevSergiJaume  
+📄 [Mi currículum en Figma](https://www.figma.com/community/file/1470461656573628685)  
 
 ![Banner de programación](https://source.unsplash.com/1600x400/?technology,coding)
+
