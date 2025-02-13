@@ -1,11 +1,11 @@
 # 💻 ¡Hola, bienvenido a mi perfil! 🚀  
 
 ## 👨‍💻 Sobre mí  
-Soy un joven profesional con formación en Administración y Dirección de Empresas (ADE) por la UVIC. Actualmente, estoy ampliando mis horizontes en el mundo de la programación, combinando mis conocimientos empresariales con el desarrollo web.  
+Soy un joven profesional con formación en Administración y Dirección de Empresas (ADE) por la UVIC. Despues de acabar mi carrera y probar varios retos empresariales dentro de la administración de comptabilidad/facturación y la administración de logistica encontre que ese no era mi camino y decidi dar un cambio a mi carrera professional. Actualmente, estoy ampliando mis horizontes en el mundo de la programación, combinando mis conocimientos empresariales con el desarrollo web.  
 
 ## 🛠️ Habilidades  
 📌 **Lenguajes y tecnologías**:  
-- **Frontend**: HTML, CSS, JavaScript  
+- **Frontend**: HTML, CSS, JavaScript, Typescript  
 - **Backend**: Python, MySQL  
 - **CMS**: WordPress  
 
